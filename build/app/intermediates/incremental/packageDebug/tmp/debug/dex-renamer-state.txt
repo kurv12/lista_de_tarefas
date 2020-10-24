@@ -1,0 +1,4 @@
+#Fri Oct 16 00:01:32 GYT 2020
+base.0=/home/keven/Documentos/ProjetosAndroid/lista_de_tarefas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
